@@ -34,7 +34,3 @@ Systems Analysis and Development Graduate
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">&nbsp;<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">&nbsp;<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">&nbsp;<img src="https://img.shields.io/badge/DeepSeek-1477D1?style=for-the-badge" alt="DeepSeek">
 </p>
-
-### GitHub Stats
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=catevildev" alt="GitHub Streak" /></a>
