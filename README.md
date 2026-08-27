@@ -37,13 +37,4 @@ Systems Analysis and Development Graduate
 
 ### GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=catevildev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=catevildev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=catevildev)](https://git.io/streak-stats)
