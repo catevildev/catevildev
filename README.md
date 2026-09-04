@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full-Stack com experiência em aplicações web, automação e sistemas escaláveis utilizando **PHP, Laravel, JavaScript, TypeScript, React e Node.js**.
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas — UNIFASIPE.
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 🚀 Atualmente foco em arquitetura de sistemas, APIs REST, SaaS, automação e integração com IA para acelerar produtos e fluxos de trabalho.
 
@@ -13,7 +13,7 @@
 <img align="right" alt="MeowCast" height="280" src="./img/meow.png">
 
 - 💼 Desenvolvedor Full-Stack
-- 🎓 Análise e Desenvolvimento de Sistemas — UNIFASIPE
+- 🎓 Análise e Desenvolvimento de Sistemas
 - ⚛️ Apaixonado por React, Laravel e Node.js
 - 🤖 Experiência com IA, automação e SaaS
 - 🌱 Sempre aprendendo novas tecnologias
